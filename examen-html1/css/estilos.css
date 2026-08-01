@@ -24,7 +24,7 @@ body {
 /* HERO SECTION CON OLA */
 .hero {
   position: relative;
-  background-image: url('../imagenes/portada.jpg');
+  background-image: url('..examen-html1/imagenes/portada.jpg');
   background-size: cover;
   background-position: center;
   height: 75vh;
